@@ -1,0 +1,22 @@
+#Resume{
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#picture{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    padding-left: 320px;
+    transform: rotate(1deg);
+
+}
+
+h4{
+    
+    padding-left: 50px;
+}
+body{
+    background-color: #99CCFF;
+}
